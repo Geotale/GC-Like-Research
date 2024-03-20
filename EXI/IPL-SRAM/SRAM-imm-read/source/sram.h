@@ -1,0 +1,4 @@
+#define DEV_FLAG_WRITE 0x80000000
+#define DEV_CMD_BITS   6
+
+#define SRAM_ADDR 0x800004
